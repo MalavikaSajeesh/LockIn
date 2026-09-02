@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep ink base, violet primary, emerald for progress, amber for tokens -->
+    <color name="lockin_ink">#0F0D17</color>
+    <color name="lockin_surface">#1A1726</color>
+    <color name="lockin_surface_high">#241F33</color>
+    <color name="lockin_violet">#8B7CFF</color>
+    <color name="lockin_violet_deep">#5B4BE0</color>
+    <color name="lockin_emerald">#34D399</color>
+    <color name="lockin_amber">#FBBF24</color>
+    <color name="lockin_rose">#FB7185</color>
+    <color name="lockin_on_surface">#ECEAF3</color>
+    <color name="lockin_muted">#9A93B0</color>
+    <color name="lockin_white">#FFFFFF</color>
+</resources>

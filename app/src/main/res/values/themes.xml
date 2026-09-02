@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Dark parent (was Material.Light before, which gave dark status-bar icons
+      on a near-black background).
+    -->
+    <style name="Theme.LockIn" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/lockin_ink</item>
+        <item name="android:navigationBarColor">@color/lockin_ink</item>
+        <item name="android:windowBackground">@color/lockin_ink</item>
+    </style>
+</resources>
