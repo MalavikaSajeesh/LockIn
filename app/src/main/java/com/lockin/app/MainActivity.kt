@@ -36,6 +36,7 @@ import com.lockin.app.ui.theme.Violet
 import com.lockin.app.ui.verify.CameraVerifyScreen
 import com.lockin.app.ui.verify.LocationVerifyScreen
 import com.lockin.app.ui.verify.TimerVerifyScreen
+import androidx.compose.foundation.layout.padding
 
 class MainActivity : ComponentActivity() {
     private val viewModel: TodoViewModel by viewModels()
